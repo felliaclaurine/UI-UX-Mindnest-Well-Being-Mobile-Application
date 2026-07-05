@@ -1,6 +1,4 @@
 # MindNest: Mental Well-Being Mobile Application
-**Nov 2025 – Dec 2025**
-Associated with Universitas Pembangunan Nasional Veteran Jakarta
 
 MindNest is a mobile application designed to support teenagers' mental well-being through mood journaling, emotion tracking, relaxation activities, mental health assessments, and access to professional consultation.
 
